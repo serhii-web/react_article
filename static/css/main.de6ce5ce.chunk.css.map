@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,kBAA4B,CAC5B,oBAAA,CAAA,YAAa,CACd,OAGC,UAAW","file":"main.de6ce5ce.chunk.css","sourcesContent":["// style go here\nbody {\n  background: rgb(110, 23, 23);\n  display: flex;\n}\n\n.block {\n  color: aqua;\n}\n"]}
